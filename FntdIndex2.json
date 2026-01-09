@@ -1007,7 +1007,7 @@
     "Max": 4,
     "hitboxOffset": {
       "X": 0,
-      "Y": 3,
+      "Y": 4,
       "Z": 0
     },
     "Upgrades": [
@@ -2225,7 +2225,7 @@
     },
     "hitboxOffset": {
       "X": 0,
-      "Y": 3,
+      "Y": 4,
       "Z": 0
     },
     "Upgrades": [
