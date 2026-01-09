@@ -2233,7 +2233,7 @@
         "Price": 0,
         "Range": 22,
         "Damage": 300,
-        "Cooldown": 0.5,
+        "Cooldown": 1.75,
         "Wither": 1.1,
         "ShinyWither": 1.1,
         "WitherTime": 2
@@ -2242,7 +2242,7 @@
         "Price": 700,
         "Range": 24,
         "Damage": 325,
-        "Cooldown": 0.5,
+        "Cooldown": 1.5,
         "Wither": 1.1,
         "ShinyWither": 1.1,
         "WitherTime": 2
@@ -2251,7 +2251,7 @@
         "Price": 900,
         "Range": 25,
         "Damage": 350,
-        "Cooldown": 0.4,
+        "Cooldown": 1.25,
         "Wither": 1.1,
         "ShinyWither": 1.1,
         "WitherTime": 2
@@ -2260,7 +2260,7 @@
         "Price": 1000,
         "Range": 26,
         "Damage": 375,
-        "Cooldown": 0.4,
+        "Cooldown": 1,
         "Wither": 1.1,
         "ShinyWither": 1.1,
         "WitherTime": 2
@@ -2269,7 +2269,7 @@
         "Price": 1200,
         "Range": 27,
         "Damage": 400,
-        "Cooldown": 0.3,
+        "Cooldown": 0.7,
         "Wither": 1.1,
         "ShinyWither": 1.1,
         "WitherTime": 2
