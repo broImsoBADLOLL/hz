@@ -1007,10 +1007,9 @@
     "Max": 4,
     "hitboxOffset": {
       "X": 0,
-      "Y": 5.75,
+      "Y":  7.75,
       "Z": 0
     },
-        "Offset": 7.75,
   "Upgrades": [
       {
         "Price": 0,
@@ -2218,7 +2217,7 @@
     "Image": "rbxassetid://18777411515",
     "Rarity": "Secret",
     "PlacePrice": 600,
-    "Offset": 4.75,
+    "Offset": 0,
     "Max": 3,
     "Passive": {
       "Name": "Tarnish",
@@ -2226,7 +2225,7 @@
     },
     "hitboxOffset": {
       "X": 0,
-      "Y": 0,
+      "Y": 4.75,
       "Z": 0
     },
     "Upgrades": [
