@@ -1093,7 +1093,7 @@
     "Rarity": "Rare",
     "PlacePrice": 900,
     "Max": 4,
-     "Offset": 1.4,
+     "Offset": 1,
 "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -2306,7 +2306,7 @@
     "Image": "rbxassetid://18777411515",
     "Rarity": "Secret",
     "PlacePrice": 600,
-    "Offset": 1.2,
+    "Offset": 1,
     "Max": 3,
     "Passive": {
       "Name": "Tarnish",
