@@ -1010,7 +1010,8 @@
       "Y": 5.75,
       "Z": 0
     },
-    "Upgrades": [
+        "Offset": 7.75,
+  "Upgrades": [
       {
         "Price": 0,
         "Range": 15,
@@ -1662,10 +1663,10 @@
       {
         "Price": 1200,
         "Range": 28,
-        "Damage": 1200,
+        "Damage": 600,
         "Cooldown": 2,
-        "Poison": 900,
-        "PoisonLength": 3
+        "Poison": 800,
+        "PoisonLength": 4
       }
     ]
   },
@@ -2217,7 +2218,7 @@
     "Image": "rbxassetid://18777411515",
     "Rarity": "Secret",
     "PlacePrice": 600,
-    "Offset": 0,
+    "Offset": 4.75,
     "Max": 3,
     "Passive": {
       "Name": "Tarnish",
@@ -2225,7 +2226,7 @@
     },
     "hitboxOffset": {
       "X": 0,
-      "Y": 4.75,
+      "Y": 0,
       "Z": 0
     },
     "Upgrades": [
