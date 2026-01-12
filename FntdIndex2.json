@@ -971,7 +971,97 @@
       }
     ]
   },
-  "Blighted Endo Freddy": {
+ "Goliath Endo Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://112659672284119",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 20000,
+                "Range": 26,
+                "Damage": 7500,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 25000,
+                "Range": 27,
+                "Damage": 10000,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 30000,
+                "Range": 28,
+                "Damage": 12500,
+                "Cooldown": 3.35
+            },
+            {
+                "Price": 40000,
+                "Range": 29,
+                "Damage": 14500,
+                "Cooldown": 3.25
+            },
+            {
+                "Price":  50000,
+                "Range": 32,
+                "Damage": 15000,
+                "Cooldown": 3
+            }
+        ]
+    },     
+"Party Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://103160362573950",
+        "Rarity": "Epic",
+        "PlacePrice": 500,
+        "Offset": 0.7,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 50,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 700,
+                "Range": 16,
+                "Damage": 60,
+                "Cooldown": 0.45
+            },
+            {
+                "Price": 800,
+                "Range": 17,
+                "Damage": 75,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 100,
+                "Cooldown": 0.4
+            }
+        ]
+    },
+ "Blighted Endo Freddy": {
     "Type": "AOE + Wither",
     "Image": "rbxassetid://18151573285",
     "Rarity": "Nightmare",
