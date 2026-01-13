@@ -2020,52 +2020,7 @@
       }
     ]
   },
-  "Mercenary Foxy": {
-    "Type": "Continuous",
-    "Image": "rbxassetid://18673129884",
-    "Rarity": "Mythic",
-    "PlacePrice": 2500,
-    "Max": 4,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 16,
-        "Damage": 20,
-        "Cooldown": 0.25,
-        "Ammo": 50,
-        "ReloadTime": 1.5
-      },
-      {
-        "Price": 3500,
-        "Range": 18,
-        "Damage": 20,
-        "Cooldown": 0.125,
-        "Ammo": 50,
-        "ReloadTime": 1.5
-      },
-      {
-        "Price": 5000,
-        "Range": 20,
-        "Damage": 25,
-        "Cooldown": 0.1,
-        "Ammo": 60,
-        "ReloadTime": 1.5
-      },
-      {
-        "Price": 7500,
-        "Range": 23,
-        "Damage": 25,
-        "Cooldown": 0.05,
-        "Ammo": 60,
-        "ReloadTime": 1.5
-      }
-    ]
-  },
+
   "Cupcake Tank": {
     "Type": "Summoner",
     "Image": "rbxassetid://18673630095",
