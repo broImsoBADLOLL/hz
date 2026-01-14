@@ -40,13 +40,13 @@
             {
                 "Price": 25000,
                 "Range": 37,
-                "Damage": 3500,
+                "Damage": 5500,
                 "Cooldown": 2.1
             },
             {
                 "Price": 45000,
                 "Range": 45,
-                "Damage": 6000,
+                "Damage": 9000,
                 "Cooldown": 2
             }
         ]
@@ -961,13 +961,13 @@
         "Price": 15000,
         "Range": 19,
         "Damage": 3000,
-        "Cooldown": 2
+        "Cooldown": 1.75
       },
       {
         "Price": 20000,
         "Range": 21,
-        "Damage": 3600,
-        "Cooldown": 1.5
+        "Damage": 4500,
+        "Cooldown": 1.25
       }
     ]
   },
@@ -1673,19 +1673,19 @@
       {
         "Price": 6000,
         "Range": 28,
-        "Damage": 4500,
+        "Damage": 3500,
         "Cooldown": 2
       },
       {
         "Price": 7500,
         "Range": 32,
-        "Damage": 5500,
+        "Damage": 4000,
         "Cooldown": 2
       },
       {
         "Price": 15000,
         "Range": 38,
-        "Damage": 7500,
+        "Damage": 4500,
         "Cooldown": 1
       }
     ]
@@ -2261,13 +2261,13 @@
             {
                 "Price": 30000,
                 "Range": 36,
-                "Damage": 5500,
+                "Damage": 5000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 40000,
                 "Range": 40,
-                "Damage": 8500,
+                "Damage": 5500,
                 "Cooldown": 1
             }
         ]
@@ -2306,7 +2306,7 @@
             {
                 "Price": 3000,
                 "Range": 20,
-                "Damage": 80,
+                "Damage": 110,
                 "Cooldown": 0.35
             }
         ]
@@ -2585,7 +2585,7 @@
         "Price": 1200,
         "Range": 27,
         "Damage": 400,
-        "Cooldown": 0.4,
+        "Cooldown": 0.25,
         "Wither": 1.1,
         "ShinyWither": 1.1,
         "WitherTime": 2
@@ -2634,7 +2634,7 @@
                     "Price": 40000,
                     "Range": 40,
                     "Damage": 2200,
-                    "Cooldown": 0.25,
+                    "Cooldown": 0.15,
                     "Bleed": 0,
                     "BleedTime": 10
                 }
