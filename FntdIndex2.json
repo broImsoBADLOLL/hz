@@ -227,7 +227,7 @@
             {
                 "Price": 30000,
                 "Range": 32,
-                "Damage": 3000
+                "Damage": 3000,
 "Poison": 450,
 "PoisonTime": 3,
                 "Cooldown": 2.7
