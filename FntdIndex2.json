@@ -195,7 +195,7 @@
     ]
   },
   "Nightmare": {
-        "Type": "AOE Poison",
+        "Type": "AOE + Poison",
         "Image": "rbxassetid://18977738423",
         "Rarity": "Secret",
         "PlacePrice": 10000,
@@ -530,7 +530,7 @@
         ]
     },
      "Nightmare Mangle": {
-        "Type": "AOE Poison",
+        "Type": "AOE + Poison",
         "Image": "rbxassetid://18977428026",
         "Rarity": "Nightmare",
         "PlacePrice": 65000,
