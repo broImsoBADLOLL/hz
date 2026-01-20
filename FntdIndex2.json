@@ -52,6 +52,57 @@
             }
         ]
     },
+     "The Crying Child": {
+        "Type": "Slow",
+        "Image": "rbxassetid://18937271323",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 50-70%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 0,
+                "Cooldown": 2.7,
+                "Slow": 0.7
+            },
+            {
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 2.7,
+                "Slow": 0.5
+            },
+            {
+                "Price": 1400,
+                "Range": 27,
+                "Damage": 0,
+                "Cooldown": 2.7,
+                "Slow": 0.45
+            },
+            {
+                "Price": 1800,
+                "Range": 30,
+                "Damage": 0,
+                "Cooldown": 2.7,
+                "Slow": 0.4
+            },
+            {
+                "Price": 2000,
+                "Range": 32,
+                "Damage": 0,
+                "Cooldown": 2.7,
+                "Slow": 0.3
+            }
+        ]
+    },
  "Circuit Breaker Freddy": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://18886487842",
