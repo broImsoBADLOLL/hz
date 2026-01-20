@@ -478,6 +478,236 @@
             }
         ]
     },
+     "Nightmare Mangle": {
+        "Type": "AOE Poison",
+        "Image": "rbxassetid://18977428026",
+        "Rarity": "Nightmare",
+        "PlacePrice": 65000,
+        "Offset": -1,
+        "Max": 2,
+        "Passive": {"Name": "Poison", "Description": "Deals 200% damage in poison over 8 seconds"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 17500,
+                "Poison": 35000,
+                "PoisonTime": 8,
+                "Cooldown": 3
+            },
+            {
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 20000,
+                "Poison": 40000,
+                "PoisonTime": 8,
+                "Cooldown": 3
+            },
+            {
+                "Price": 25000,
+                "Range": 29,
+                "Damage": 22500,
+                "Poison": 45000,
+                "PoisonTime": 8,
+                "Cooldown": 3
+            },
+            {
+                "Price": 30000,
+                "Range": 32,
+                "Damage": 25000,
+                "Poison": 50000,
+                "PoisonTime": 8,
+                "Cooldown": 3
+            }
+        ]
+    },
+    "Freddle": {
+        "Type": "Summoner",
+        "Image": "rbxassetid://18978374958",
+        "Rarity": "Secret",
+        "PlacePrice": 400,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "SummonTime": 10,
+                "Unit": "Helper Freddle",
+                "Health": 500,
+                "Cooldown": 10
+            },
+            {
+                "Price": 500,
+                "Range": 15,
+                "Damage": 1000,
+                "SummonTime": 10,
+                "Unit": "Helper Freddle",
+                "Health": 1000,
+                "Cooldown": 9
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 2000,
+                "SummonTime": 10,
+                "Unit": "Helper Freddle",
+                "Health": 2000,
+                "Cooldown": 8
+            },
+            {
+                "Price": 2500,
+                "Range": 15,
+                "Damage": 3000,
+                "SummonTime": 10,
+                "Unit": "Helper Freddle",
+                "Health": 3000,
+                "Cooldown": 7
+            }
+        ]
+    },
+  "Nightmare Balloon Boy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://18978330449",
+        "Rarity": "Mythic",
+        "PlacePrice": 1500,
+        "Offset": 0,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 140,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 17,
+                "Damage": 160,
+                "Cooldown": 0.85
+            },
+            {
+                "Price": 2500,
+                "Range": 18,
+                "Damage": 180,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 3000,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+    "Plushtrap": {
+        "Type": "Support",
+        "Image": "rbxassetid://18978316223",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+               "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 800,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 1200,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.24
+            }
+        ]
+    },
+ "Nightmare Fredbear": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://18978153260",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Offset": 0.7,
+        "Max": 2,
+        "Passive": {"Name": "Jump Scare", "Description": "Attacks stun enemies for 0.5 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1250,
+                "Cooldown": 0.25,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 6000,
+                "Range": 22,
+                "Damage": 1650,
+                "Cooldown": 0.25,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 7500,
+                "Range": 25,
+                "Damage": 2075,
+                "Cooldown": 0.25,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 9000,
+                "Range": 30,
+                "Damage": 2500,
+                "Cooldown": 0.25,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
  "Chica": {
     "Type": "Explosion",
     "Image": "rbxassetid://16620303027",
