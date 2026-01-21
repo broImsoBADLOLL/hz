@@ -197,10 +197,10 @@
   "Nightmare": {
         "Type": "AOE + Poison",
         "Image": "rbxassetid://18977738423",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 10000,
         "Offset": 0.5,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "Poison", "Description": "Poisons enemies"},
         "hitboxOffset": {
             "X": 0,
@@ -212,33 +212,33 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1000,
-                "Poison": 350,
-                "PoisonTime": 3,
+                "Poison": 500,
+                "PoisonTime": 1,
                 "Cooldown": 3
             },
             {
                 "Price": 20000,
                 "Range": 27,
-                "Damage": 2000,
-                "Poison": 400,
+                "Damage": 2500,
+                "Poison": 1000,
                 "PoisonTime": 3,
-                "Cooldown": 2.85
+                "Cooldown": 2
             },
             {
                 "Price": 30000,
                 "Range": 32,
                 "Damage": 3000,
-"Poison": 450,
-"PoisonTime": 3,
-                "Cooldown": 2.7
+                "Poison": 1500,
+                "PoisonTime": 3,
+                "Cooldown": 1.5
             },
             {
                 "Price": 40000,
                 "Range": 35,
-                "Damage": 7000,
-                "Poison": 1500,
+                "Damage": 5000,
+                "Poison": 2000,
                 "PoisonTime": 3,
-                "Cooldown": 2
+                "Cooldown": 1
             }
         ]
     },
