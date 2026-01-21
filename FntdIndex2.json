@@ -200,7 +200,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
         "Offset": 0.5,
-        "Max": 2,
+        "Max": 1,
         "Passive": {"Name": "Poison", "Description": "Poisons enemies"},
         "hitboxOffset": {
             "X": 0,
