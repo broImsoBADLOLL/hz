@@ -53,7 +53,7 @@
         ]
     },
      "The Crying Child": {
-        "Type": "Slow",
+        "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://18937271323",
         "Rarity": "Secret",
         "PlacePrice": 300,
