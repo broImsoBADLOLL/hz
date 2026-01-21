@@ -1692,7 +1692,46 @@
             }
         ]
     },
-"Goliath Endo Freddy": {
+    "Plane Boy": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://17689713814",
+        "Rarity": "Secret",
+        "PlacePrice": 20000,
+        "Offset": 2,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 35,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 45,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 40000,
+                "Range": 35,
+                "Damage": 60,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 40,
+                "Damage": 65,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+ "Goliath Endo Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://112659672284119",
         "Rarity": "Nightmare",
