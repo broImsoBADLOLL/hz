@@ -1680,7 +1680,7 @@
     ]
   },
  "Phone Guy": {
-        "Type": "AOE + Slow",
+        "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://138275060327175",
         "Rarity": "Secret",
         "PlacePrice": 750,
