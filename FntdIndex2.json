@@ -90,14 +90,14 @@
             {
                 "Price": 800,
                 "Range": 30,
-                "Damage": 20,
+                "Damage": 25,
                 "Cooldown": 0.05,
                 "Slow": 0.4
             },
             {
                 "Price": 1200,
                 "Range": 32,
-                "Damage": 35,
+                "Damage": 40,
                 "Cooldown": 0.05,
                 "Slow": 0.3
             }
