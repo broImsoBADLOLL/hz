@@ -1641,7 +1641,7 @@
     ]
   },
  "Phone Guy": {
-        "Type": "AOE DMG + Slow",
+        "Type": "AOE + Slow",
         "Image": "rbxassetid://138275060327175",
         "Rarity": "Secret",
         "PlacePrice": 750,
@@ -1889,25 +1889,25 @@
       {
         "Price": 0,
         "Range": 20,
-        "Damage": 1000,
+        "Damage": 1250,
         "Cooldown": 1
       },
       {
         "Price": 30000,
         "Range": 22,
-        "Damage": 1200,
+        "Damage": 1400,
         "Cooldown": 0.95
       },
       {
         "Price": 40000,
         "Range": 25,
-        "Damage": 1400,
+        "Damage": 1700,
         "Cooldown": 0.9
       },
       {
         "Price": 50000,
         "Range": 30,
-        "Damage": 1800,
+        "Damage": 2200,
         "Cooldown": 0.8
       }
     ]
@@ -2750,7 +2750,7 @@
     ]
   },
   "Commando Endo": {
-    "Type": "Continuous Splash",
+    "Type": "Continuous",
     "Image": "rbxassetid://18673468864",
     "Rarity": "Secret",
     "PlacePrice": 1000,
