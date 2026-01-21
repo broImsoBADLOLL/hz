@@ -69,42 +69,42 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 250,
-                "Cooldown": 2.7,
+                "Damage": 10,
+                "Cooldown": 0.1,
                 "Slow": 0.7
             },
             {
                 "Price": 1000,
                 "Range": 25,
-                "Damage": 300,
-                "Cooldown": 2.7,
+                "Damage": 25,
+                "Cooldown": 0.05,
                 "Slow": 0.5
             },
             {
                 "Price": 1400,
                 "Range": 27,
-                "Damage": 450,
-                "Cooldown": 2.7,
+                "Damage": 50,
+                "Cooldown": 0.05,
                 "Slow": 0.45
             },
             {
                 "Price": 1800,
                 "Range": 30,
-                "Damage": 600,
-                "Cooldown": 2.7,
+                "Damage": 100,
+                "Cooldown": 0.05,
                 "Slow": 0.4
             },
             {
                 "Price": 2000,
                 "Range": 32,
-                "Damage": 750,
-                "Cooldown": 2.7,
+                "Damage": 120,
+                "Cooldown": 0.05,
                 "Slow": 0.3
             }
         ]
     },
  "Circuit Breaker Freddy": {
-        "Type": "Cone AOE",
+        "Type": "Splash",
         "Image": "rbxassetid://18886487842",
         "Rarity": "Nightmare",
         "PlacePrice": 6000,
