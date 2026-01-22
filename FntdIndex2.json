@@ -6,7 +6,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
         "Offset": 0,
-        "Max": 2,
+        "Max": 1,
         "Passive": {"Name": "Lethal Rebound", "Description": "Attacks hit enemies 10 times"},
         "hitboxOffset": {
             "X": 0,
@@ -46,7 +46,7 @@
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -85,7 +85,7 @@
         "Rarity": "Secret",
         "PlacePrice": 53000,
         "Offset": 0,
-        "Max": 2,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -96,25 +96,25 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 750,
-                "Cooldown": 0.25
+                "Cooldown": 0.55
             },
            {
                 "Price": 58000,
                 "Range": 22,
                 "Damage": 900,
-                "Cooldown": 0.25
+                "Cooldown": 0.45
             },
            {
                 "Price": 63000,
                 "Range": 25,
                 "Damage": 1100,
-                "Cooldown": 0.25
+                "Cooldown": 0.35
             },
            {
                 "Price": 66000,
                 "Range": 28,
-                "Damage": 1375,
-                "Cooldown": 0.25
+                "Damage": 1250,
+                "Cooldown": 0.3
             }
         ]
     },
@@ -135,25 +135,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 16000,
+                "Damage": 3500,
                 "Cooldown": 3
             },
             {
                 "Price": 64000,
                 "Range": 17,
-                "Damage": 19000,
+                "Damage": 5000,
                 "Cooldown": 2.5
             },
             {
                 "Price": 76000,
                 "Range": 18,
-                "Damage": 22000,
+                "Damage": 6500,
                 "Cooldown": 2
             },
             {
                 "Price": 88000,
                 "Range": 20,
-                "Damage": 26000,
+                "Damage": 8500,
                 "Cooldown": 2
             }
         ]
@@ -192,7 +192,7 @@
             {
                 "Price": 50000,
                 "Range": 30,
-                "Damage": 10000,
+                "Damage": 9000,
                 "Cooldown": 2
             }
         ]
@@ -214,7 +214,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 18000,
+                "Damage": 6500,
                 "Cooldown": 2,
                 "Wither": 1.15,
                 "ShinyWither": 1.15,
@@ -225,7 +225,7 @@
             {
                 "Price": 77000,
                 "Range": 27,
-                "Damage": 22000,
+                "Damage": 9000,
                 "Cooldown": 2,
                 "Wither": 1.15,
                 "ShinyWither": 1.15,
@@ -236,7 +236,7 @@
             {
                 "Price": 88000,
                 "Range": 31,
-                "Damage": 26000,
+                "Damage": 11000,
                 "Cooldown": 2,
                 "Wither": 1.15,
                 "ShinyWither": 1.15,
@@ -247,7 +247,7 @@
             {
                 "Price": 99000,
                 "Range": 35,
-                "Damage": 30000,
+                "Damage": 14500,
                 "Cooldown": 2,
                 "Wither": 1.15,
                 "ShinyWither": 1.15,
@@ -273,31 +273,31 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 10000,
+                "Damage": 500,
                 "Cooldown": 0.25
             },
             {
                 "Price": 125000,
                 "Range": 25,
-                "Damage": 12500,
+                "Damage": 1000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 150000,
                 "Range": 30,
-                "Damage": 15000,
+                "Damage": 2000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 175000,
                 "Range": 35,
-                "Damage": 17500,
+                "Damage": 3500,
                 "Cooldown": 0.25
             },
             {
                 "Price": 200000,
                 "Range": 40,
-                "Damage": 20000,
+                "Damage": 4300,
                 "Cooldown": 0.25
             }
         ]
