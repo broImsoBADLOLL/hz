@@ -79,12 +79,12 @@
         ]
     },
  "Master Puppeteer": {
-        "Type": "Continuous Pierce",
+        "Type": "Pierce",
         "Image": "rbxassetid://139994062140962",
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
         "Offset": 0,
-        "Max": 1,
+        "Max": 2,
         "Passive": {"Name": "Lethal Rebound", "Description": "Attacks hit enemies 10 times"},
         "hitboxOffset": {
             "X": 0,
@@ -113,8 +113,8 @@
            {
                 "Price": 25000,
                 "Range": 33,
-                "Damage": 7600,
-                "Cooldown": 4
+                "Damage": 9500,
+                "Cooldown": 3
             }
         ]
     },
