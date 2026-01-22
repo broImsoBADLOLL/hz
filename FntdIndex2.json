@@ -1,6 +1,84 @@
 {
  
-       "Master Puppeteer": {
+      "President Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://133399431749556",
+        "Rarity": "Secret",
+        "PlacePrice": 300,
+        "Offset": 0,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 4
+            },
+            {
+                "Price": 500,
+                "Range": 22,
+                "Damage": 3100,
+                "Cooldown": 4
+            },
+            {
+                "Price": 800,
+                "Range": 23,
+                "Damage": 3500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 4200,
+                "Cooldown": 2
+            }
+        ]
+    }, 
+ "Sharpshooter Puppet": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://122218118663611",
+        "Rarity": "Secret",
+        "PlacePrice": 10000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+      "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 3000,
+                "Cooldown": 7
+            },
+            {
+                "Price": 15000,
+                "Range": 35,
+                "Damage": 4000,
+                "Cooldown": 6
+            },
+            {
+                "Price": 20000,
+                "Range": 40,
+                "Damage": 6000,
+                "Cooldown": 5.5
+            },
+            {
+                "Price": 25000,
+                "Range": 45,
+                "Damage": 8000,
+                "Cooldown": 5
+            }
+        ]
+    },
+ "Master Puppeteer": {
         "Type": "Continuous Pierce",
         "Image": "rbxassetid://139994062140962",
         "Rarity": "Nightmare",
