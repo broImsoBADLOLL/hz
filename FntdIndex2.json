@@ -4101,7 +4101,7 @@
             "Rarity": "Apex",
             "PlacePrice": 20000,
             "Offset": 0.5,
-            "Max": 3,
+            "Max": 2,
             "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
             "hitboxOffset": {
                 "X": 0,
@@ -4136,8 +4136,8 @@
                 {
                     "Price": 40000,
                     "Range": 40,
-                    "Damage": 2200,
-                    "Cooldown": 0.15,
+                    "Damage": 2100,
+                    "Cooldown": 0.2,
                     "Bleed": 0,
                     "BleedTime": 10
                 }
