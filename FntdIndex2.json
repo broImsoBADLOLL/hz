@@ -1006,7 +1006,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1000,
+                "Damage": 400,
                 "Poison": 500,
                 "PoisonTime": 1,
                 "Cooldown": 3
@@ -1014,7 +1014,7 @@
             {
                 "Price": 20000,
                 "Range": 27,
-                "Damage": 2500,
+                "Damage": 800,
                 "Poison": 1000,
                 "PoisonTime": 3,
                 "Cooldown": 2
@@ -1022,7 +1022,7 @@
             {
                 "Price": 30000,
                 "Range": 32,
-                "Damage": 3000,
+                "Damage": 1200,
                 "Poison": 1500,
                 "PoisonTime": 3,
                 "Cooldown": 1.5
@@ -1030,8 +1030,8 @@
             {
                 "Price": 40000,
                 "Range": 35,
-                "Damage": 5000,
-                "Poison": 2000,
+                "Damage": 1600,
+                "Poison": 1750,
                 "PoisonTime": 3,
                 "Cooldown": 1
             }
