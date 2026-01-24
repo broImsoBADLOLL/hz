@@ -326,7 +326,7 @@
                 "Price": 99000,
                 "Range": 35,
                 "Damage": 18500,
-                "Cooldown": 2,
+                "Cooldown": 1.5,
                 "Wither": 1.15,
                 "ShinyWither": 1.15,
                 "WitherTime": 2,
