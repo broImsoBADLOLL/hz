@@ -3407,7 +3407,7 @@
     "Type": "Poison",
     "Image": "rbxassetid://18363391561",
     "Rarity": "Secret",
-    "PlacePrice": 500,
+    "PlacePrice": 300,
     "Max": 3,
     "Passive": {
       "Name": "Lethal Potions",
@@ -3423,7 +3423,7 @@
       {
         "Price": 0,
         "Range": 20,
-        "Damage": 250,
+        "Damage": 500,
         "Cooldown": 2.5,
         "Poison": 450,
         "PoisonLength": 3
@@ -3431,7 +3431,7 @@
       {
         "Price": 800,
         "Range": 22,
-        "Damage": 350,
+        "Damage": 750,
         "Cooldown": 2.3,
         "Poison": 600,
         "PoisonLength": 3
@@ -3439,7 +3439,7 @@
       {
         "Price": 1000,
         "Range": 25,
-        "Damage": 500,
+        "Damage": 900,
         "Cooldown": 2.2,
         "Poison": 750,
         "PoisonLength": 3
@@ -3447,9 +3447,9 @@
       {
         "Price": 1200,
         "Range": 28,
-        "Damage": 600,
+        "Damage": 1400,
         "Cooldown": 2,
-        "Poison": 800,
+        "Poison": 1000,
         "PoisonLength": 4
       }
     ]
