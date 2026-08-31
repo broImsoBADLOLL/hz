@@ -931,14 +931,14 @@
                 "Range": 16,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.425
+                "RangeBoost": 1.475
             },
             {
                 "Price": 1500,
                 "Range": 18,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.5
+                "RangeBoost": 1.65
             }
         ]
     },
