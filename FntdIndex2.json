@@ -898,6 +898,50 @@
             }
         ]
     },
+   "Plushtrap": {
+        "Type": "Support",
+        "Image": "rbxassetid://18978316223",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+               "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.25
+            },
+            {
+                "Price": 800,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.35
+            },
+            {
+                "Price": 1200,
+                "Range": 16,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.425
+            },
+            {
+                "Price": 1500,
+                "Range": 18,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.5
+            }
+        ]
+    },
  "Circuit Breaker Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://18886487842",
