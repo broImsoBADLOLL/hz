@@ -478,7 +478,7 @@
             },
             {
                 "Price": 15000,
-[02.09.2026 22:01] Glowy: "Range": 30,
+                "Range": 30,
                 "Damage": 1200,
                 "Cooldown": 0.4
             }
@@ -572,7 +572,7 @@
             "Damage": 6000,
             "StunDamage": 2.25,
             "Cooldown": 0.5
-        }
+            }
         ]
     },
  "Sharpshooter Puppet": {
