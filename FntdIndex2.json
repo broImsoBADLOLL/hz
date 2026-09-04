@@ -532,7 +532,7 @@
         "Type": "Splash",
         "Image": "rbxassetid://99820154884996",
         "Rarity": "Epic",
-        "PlacePrice": 1500,
+        "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -548,19 +548,19 @@
                 "Cooldown": 1
             },
            {
-                "Price": 2000,
+                "Price": 1000,
                 "Range": 20,
                 "Damage": 200,
                 "Cooldown": 1
             },
            {
-                "Price": 3000,
+                "Price": 1500,
                 "Range": 20,
                 "Damage": 300,
                 "Cooldown": 1
             },
            {
-                "Price": 4000,
+                "Price": 2000,
                 "Range": 20,
                 "Damage": 500,
                 "Cooldown": 1
@@ -1254,25 +1254,25 @@
             {
                 "Price": 0,
                 "Range": 18,
-                "Damage": 40,
+                "Damage": 20,
                 "Cooldown": 0.05
             },
             {
                 "Price": 15000,
                 "Range": 20,
-                "Damage": 60,
+                "Damage": 30,
                 "Cooldown": 0.05
             },
             {
                 "Price": 25000,
                 "Range": 23,
-                "Damage": 80,
+                "Damage": 40,
                 "Cooldown": 0.05
             },
             {
                 "Price": 35000,
                 "Range": 26,
-                "Damage": 100,
+                "Damage": 50,
                 "Cooldown": 0.05
             }
         ]
