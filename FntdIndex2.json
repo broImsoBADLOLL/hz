@@ -4384,7 +4384,7 @@
       {
         "Price": 0,
         "Range": 20,
-        "Damage": 320,
+        "Damage": 50,
         "Cooldown": 0.25,
         "SummonTime": 30,
         "Health": 20,
@@ -4393,13 +4393,13 @@
         "Unit": "Infantry Endo",
         "Offset": -2,
         "SummonRange": 25,
-        "SummonDamage": 320,
+        "SummonDamage": 50,
         "SummonCooldown": 0.25
       },
       {
         "Price": 1500,
         "Range": 23,
-        "Damage": 380,
+        "Damage": 100,
         "Cooldown": 0.25,
         "SummonTime": 30,
         "Health": 30,
@@ -4408,13 +4408,13 @@
         "Unit": "Infantry Endo",
         "Offset": 0,
         "SummonRange": 25,
-        "SummonDamage": 380,
+        "SummonDamage": 100,
         "SummonCooldown": 0.25
       },
       {
         "Price": 2000,
         "Range": 26,
-        "Damage": 440,
+        "Damage": 150,
         "Cooldown": 0.25,
         "SummonTime": 30,
         "Health": 50,
@@ -4423,13 +4423,13 @@
         "Unit": "Infantry Endo",
         "Offset": -2,
         "SummonRange": 25,
-        "SummonDamage": 440,
+        "SummonDamage": 150,
         "SummonCooldown": 0.25
       },
       {
         "Price": 3000,
         "Range": 30,
-        "Damage": 500,
+        "Damage": 250,
         "Cooldown": 0.25,
         "SummonTime": 30,
         "Health": 75,
@@ -4438,7 +4438,7 @@
         "Unit": "Infantry Endo",
         "Offset": -2,
         "SummonRange": 25,
-        "SummonDamage": 500,
+        "SummonDamage": 250,
         "SummonCooldown": 0.25
       }
     ]
