@@ -1,4 +1,43 @@
 {
+      "Nautic Crusher Mangle": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://85506116594248",
+        "Rarity": "Nightmare",
+        "PlacePrice": 55000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 3000,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 70000,
+                "Range": 28,
+                "Damage": 4000,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 85000,
+                "Range": 31,
+                "Damage": 5000,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 100000,
+                "Range": 35,
+                "Damage": 7500,
+                "Cooldown": 0.5
+            }
+        ]
+    },
     "Summer Toy Bonnie": {
         "Type": "Slow",
         "Image": "rbxassetid://18255590026",
