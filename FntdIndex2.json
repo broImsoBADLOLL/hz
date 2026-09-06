@@ -2214,7 +2214,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 65000,
         "Offset": -1,
-        "Max": 2,
+        "Max": 1,
         "Passive": {"Name": "Poison", "Description": "Deals 200% damage in poison over 8 seconds"},
         "hitboxOffset": {
             "X": 0,
@@ -2225,32 +2225,32 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 17500,
-                "Poison": 35000,
+                "Damage": 10000,
+                "Poison": 20000,
                 "PoisonTime": 8,
                 "Cooldown": 3
             },
             {
                 "Price": 20000,
                 "Range": 27,
-                "Damage": 20000,
-                "Poison": 40000,
+                "Damage": 12500,
+                "Poison": 25000,
                 "PoisonTime": 8,
                 "Cooldown": 3
             },
             {
                 "Price": 25000,
                 "Range": 29,
-                "Damage": 22500,
-                "Poison": 45000,
+                "Damage": 14000,
+                "Poison": 28000,
                 "PoisonTime": 8,
                 "Cooldown": 3
             },
             {
                 "Price": 30000,
                 "Range": 32,
-                "Damage": 25000,
-                "Poison": 50000,
+                "Damage": 15000,
+                "Poison": 30000,
                 "PoisonTime": 8,
                 "Cooldown": 3
             }
@@ -3445,19 +3445,19 @@
                 "Price": 30000,
                 "Range": 28,
                 "Damage": 12500,
-                "Cooldown": 3.35
+                "Cooldown": 3.15
             },
             {
                 "Price": 40000,
                 "Range": 29,
                 "Damage": 14500,
-                "Cooldown": 3.25
+                "Cooldown": 3
             },
             {
                 "Price":  50000,
                 "Range": 32,
                 "Damage": 17500,
-                "Cooldown": 3.15
+                "Cooldown": 2.75
             }
         ]
     },     
