@@ -4962,7 +4962,7 @@
       {
         "Price": 1000,
         "Range": 26,
-        "Damage": 350,
+        "Damage": 400,
         "Cooldown": 0.4,
         "Wither": 1.1,
         "ShinyWither": 1.1,
@@ -4971,7 +4971,7 @@
       {
         "Price": 1200,
         "Range": 27,
-        "Damage": 600,
+        "Damage": 500,
         "Cooldown": 0.25,
         "Wither": 1.1,
         "ShinyWither": 1.1,
