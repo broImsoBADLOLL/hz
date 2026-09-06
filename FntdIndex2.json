@@ -1,4 +1,64 @@
 {
+      "Fortified Endo 02": {
+        "Type": "Cone AOE + Passive",
+        "Image": "rbxassetid://86634335404738",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Offset": 0,
+        "Max": 4,
+        "Passive": {"Name": "Infected Circuit", "Description": "Attacks apply 15% Anti Bleed and 7.5 Wither for 1 second"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 60,
+                "Cooldown": 0.25,
+                "Wither": 1.075,
+                "ShinyWither": 1.075,
+                "WitherTime": 1,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            },
+            {
+                "Price": 700,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 0.25,
+                "Wither": 1.075,
+                "ShinyWither": 1.075,
+                "WitherTime": 1,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            },
+            {
+                "Price": 900,
+                "Range": 24,
+                "Damage": 150,
+                "Cooldown": 0.2,
+                "Wither": 1.075,
+                "ShinyWither": 1.075,
+                "WitherTime": 1,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 0.25,
+                "Wither": 1.075,
+                "ShinyWither": 1.075,
+                "WitherTime": 1,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            }
+        ]
+    },
       "Nautic Crusher Mangle": {
         "Type": "Pierce",
         "Image": "rbxassetid://85506116594248",
